@@ -4,6 +4,6 @@
 
 Juan David Muñoz
 
-### Github Handle
+### Favorite vegetable, *botanically speaking*
 
-###### [(@juancho0202)](https://github.com/juancho0202)
+One potato
