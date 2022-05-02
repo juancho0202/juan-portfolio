@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### List of meals I had today
+
+1. Egg sandwich
+2. Fish casserole
+3. Fish casserole, again
