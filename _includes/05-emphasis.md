@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Real talk
+I enjoy **studying** discussing **business needs** across many different fields and coming up with **ways** to **integrate software** development **into it**. Some of my favorite languages are *Javascript*, *C#*, *Java* and *PHP*. 
