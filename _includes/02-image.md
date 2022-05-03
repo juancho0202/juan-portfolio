@@ -1,1 +1,3 @@
-![Stock photo of a guy whose back hurts](https://thumbs.dreamstime.com/b/adult-man-back-pain-using-laptop-165538268.jpg "This is most definitely not me")
+### Here's me and my dad looking all sharp and tanned
+
+![Photo of me and my dad the day of my wedding](assets/foto-matri-con-papá.jpg "This is me and my father")
