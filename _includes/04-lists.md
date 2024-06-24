@@ -1,4 +1,4 @@
-### Some projects I've had the honor to contribute to
+### Some projects I've had the change to contribute to
 
 Company+Project | Project Description
 ------------ | -------------
